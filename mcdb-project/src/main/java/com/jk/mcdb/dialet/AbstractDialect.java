@@ -3,12 +3,9 @@
  */
 package com.jk.mcdb.dialet;
 
-import java.io.File;
-import java.net.URL;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Enumeration;
 import java.util.List;
 
 import javax.sql.DataSource;
